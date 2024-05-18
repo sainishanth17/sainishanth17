@@ -67,7 +67,9 @@
 - Facilitated two 3-day design thinking workshops for 15 senior executives to identify and prioritize opportunities to enter three new international markets.
 
 # 📜 Certifications
-- AWS Certified Solutions Architect Associate – SAA C03 | Certified Developer Associate – DVA C02
+- AWS Certified Solutions Architect Associate – SAA C03
+- AWS Certified Developer Associate – DVA C02
+- Azure Certified Data Scientist Associate - DP100
 - Udemy: Database Management Systems – MySQL & PostgreSQL | Deep Learning and Artificial Neural Networks | Machine Learning Fundamentals
 - Coursera: Spring Boot and Spring Framework, Vanderbilt University | Cyber Security and Internet of Things, Kennesaw University
 

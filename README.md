@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, <tb></tb> I'm Sai Nishanth Mettu</h1>
-<h3 align="center">Software Engineer & Data Scientist from New York</h3>
+<h3 align="center">Software Engineer & Data Scientist</h3>
 <br>
 <br>
 

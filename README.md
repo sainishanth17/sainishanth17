@@ -2,9 +2,9 @@
 <h1 align="center">Hi 👋, I'm Sai Nishanth Mettu</h1>
 <h3 align="center">A passionate Computer and Data Scientist from New York</h3>
 
-- 🔭 I’m currently working on **Information Visualization**
+- 🔭 I’m currently working on **Data Science, Software Engineering and Cloud Computing**
 
-- 🌱 I’m currently learning **Altair, Tableau, PowerBI, R, Seaborn**
+- 🌱 I’m currently learning **Azure, AWS, Machine Learning, and Deep Learning**
 
 - 💬 Ask me about **AWS, Fullstack Development, ML and AI**
 

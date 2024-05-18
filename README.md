@@ -42,7 +42,13 @@
 
 **AI, ML & Data Science:** PyTorch, TensorFlow, Conda, Altair, R, Keras, Pandas, Numpy, Scikit-Learn, Spark, Kafka
 
-# 💼 Work Experience
+ 💼 Work Experience
+**Research Assistant - AI/ML, New York University**
+*Sep 2023 – Present*
+- Conducting research on advanced machine learning algorithms for data analysis and prediction.
+- Developing AI models to support various academic projects, focusing on deep learning and computer vision.
+- Collaborating with professors and fellow students to publish research findings in reputed journals.
+
 **Philips | Full Stack Software Developer**
 *August 2021 – July 2023*
 - Directed a team of 5 engineers in the development of the Java Backend Architecture for the Philips Remote Patient Monitoring Team; delivered innovative solutions for products such as the Philips Bio Hub and the Philips 2Net2 Hub.

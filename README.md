@@ -10,7 +10,7 @@
 
 - 📫 How to reach me **sm11326@nyu.edu**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me: +1 914-267-2539 </h3>
 <p align="left">
 </p>
 

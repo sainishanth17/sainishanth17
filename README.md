@@ -42,7 +42,7 @@
 
 **AI, ML & Data Science:** PyTorch, TensorFlow, Conda, Altair, R, Keras, Pandas, Numpy, Scikit-Learn, Spark, Kafka
 
- 💼 Work Experience
+# 💼 Work Experience
 **Research Assistant - AI/ML, New York University**
 *Sep 2023 – Present*
 - Conducting research on advanced machine learning algorithms for data analysis and prediction.

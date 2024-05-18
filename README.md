@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, <tb></tb> I'm Sai Nishanth Mettu</h1>
-<h3 align="center">An AWS Certified Solutions Architect, AWS Certified Developer and a Microsoft Certified Azure Data Scientist</h3>
+<h3 align="center">I am an AWS Certified Solutions Architect, AWS Certified Developer and a Microsoft Certified Azure Data Scientist</h3>
 <br>
 <br>
 

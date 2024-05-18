@@ -83,12 +83,6 @@
 - Philips Take Ownership to Deliver Fast Award for Q3 2021
 - Runner’s up – Philips HealthSuite Platform (HSP) Hackathon 2021
 
-# 📮 Connect with Me
-Feel free to reach out for collaborations or just a friendly chat:
-
-- [LinkedIn](https://www.linkedin.com/in/nishanth2810/)
-- 📧 Email: sm11326@nyu.edu
-
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=sainishanth17&theme=onedark&no-frame=true&no-bg=false&margin-w=4)
 

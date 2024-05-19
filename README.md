@@ -1,11 +1,10 @@
 
 <h1 align="center">Hi 👋, <tb></tb> I'm Sai Nishanth Mettu</h1>
-<h3 align="center">Software Engineer & Data Scientist</h3>
 <br>
 <br>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=I+am+a+Software+Engineer!;I+Study+at+New+York+University!;Add+a+description+to+your+repo!;Make+your+readme+stand+out!&font=Fira%20Code&center=true&width=380&height=50&duration=4000&pause=1000" alt="Example Usage - README Typing SVG">
+  <img src="https://readme-typing-svg.demolab.com/?lines=I+am+a+Software+Engineer!;I+Study+at+New+York+University!;&font=Fira%20Code&center=true&width=380&height=50&duration=4000&pause=1000" alt="Example Usage - README Typing SVG">
 </p>
 
 <p align="center">

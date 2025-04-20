@@ -54,9 +54,20 @@
 - Conducting research on advanced machine learning algorithms for data analysis and prediction.
 - Developing AI models to support various academic projects, focusing on deep learning and computer vision.
 - Collaborating with professors and fellow students to publish research findings in reputed journals.
+- Designed real-time dashboards using React, TypeScript, and Tailwind CSS, reducing system monitoring effort by 60%.
+- Constructed secure REST APIs using FastAPI, Docker, and PostgreSQL, enabling reliable access to 3K+ clinical records.
+- Deployed microservices with Flask and Kafka for streaming data ingestion, increasing backend throughput by 40%.
+- Devised a modular Django service with Celery and Redis for task queues, powering background data jobs with 99.9% uptime. • Authored client-side validation in React with TypeScript and Zod, improving submission success rates by 40%.
 
 **Philips | Full Stack Software Developer**
 *August 2021 – July 2023*
+- Engineered microservices in Java Spring Boot processing 10M+ monthly API requests with sub-100ms latency.
+- Led development of a Java-based REST APIs, enterprise grade backend components using J2EE (JSP, Servlets, JDBC) integrated with OracleDB for device diagnostics, decreasing failure resolution time by 35% through standardized logs and traceability.
+- Streamlined CI/CD using GitHub Actions, Terraform, and AWS CodeDeploy, eliminating 95% of manual steps.
+- Crafted React + Redux interfaces for real-time device metrics, improving physician visibility by 40%.
+- Owned complete development of admin dashboards with React and TypeScript, cutting API issues by 35%.
+- Configured remediation system monitoring using CloudWatch Alarms and custom Grafana alerts, reducing critical downtime by 45%.
+- Developed a patient-doctor communication Android app prototype to streamline appointment scheduling and reminders, boosting user engagement in pilot tests by 28%.
 - Directed a team of 5 engineers in the development of the Java Backend Architecture for the Philips Remote Patient Monitoring Team; delivered innovative solutions for products such as the Philips Bio Hub and the Philips 2Net2 Hub.
 - Led a team of 5 in the creation of Customer Device Data Exporters (CDE), optimizing data extraction processes and enabling real-time analytics for 100k+ devices, resulting in a 25% increase in data-driven decision making.
 - Orchestrated the development of a cutting-edge Centralized Management System (CMS), streamlining operations across 10+ Philips departments and reducing manual processing time by 40%.
@@ -65,6 +76,11 @@
 
 **Philips | Software Engineering Intern**
 *February 2021 – August 2021*
+- Implemented microservice communication using Spring Cloud and Eureka, reducing service discovery latency by 35%.
+- Refactored a monolith into modular Spring Boot services with DTO mapping, cutting deployment time by 40%.
+- Integrated fine-grained access controls with custom Spring Security filters, lowering unauthorized access incidents by 45%. • Constructed Kafka-based asynchronous messaging in Spring Boot, improving real-time data reliability across 
+  modules.
+- Automated multithreaded job schedulers with Java Concurrency, increasing background task throughput by 50%.
 - Eliminated 12 security issues arising from Penetration testing of the project, which facilitated a smooth release.
 - Devised the integration of SonarQube, Blackduck, Fortify, and CloudWatch for the 12 Java Repositories. Worked on reducing up to 200 SonarQube and Fortify High and Critical bugs in production, reducing the technical debt.
 - Assisted in Automated Testing of the Hub applications and the VHC (Virtual Hub Communication) User Interface using Selenium, Karate, and Cucumber, and succeeded in executing 100 test-cases.

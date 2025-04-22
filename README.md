@@ -49,7 +49,7 @@
 **AI, ML & Data Science:** PyTorch, TensorFlow, Conda, Altair, R, Keras, Pandas, Numpy, Scikit-Learn, Spark, Kafka
 
 # 💼 Work Experience
-**Research Assistant - AI/ML, New York University**
+**Software Engineer, Academic Research, New York University**
 *Sep 2023 – Present*
 - Conducting research on advanced machine learning algorithms for data analysis and prediction.
 - Developing AI models to support various academic projects, focusing on deep learning and computer vision.
@@ -58,8 +58,13 @@
 - Constructed secure REST APIs using FastAPI, Docker, and PostgreSQL, enabling reliable access to 3K+ clinical records.
 - Deployed microservices with Flask and Kafka for streaming data ingestion, increasing backend throughput by 40%.
 - Devised a modular Django service with Celery and Redis for task queues, powering background data jobs with 99.9% uptime. • Authored client-side validation in React with TypeScript and Zod, improving submission success rates by 40%.
+- Designed ML workflows for multimodal brain analysis using CNNs, Bi-LSTMs, and Transformers (F1: 92.49%).
+- Constructed predictive maintenance models on 5K+ device logs via SageMaker.
+- Deployed scalable MLOps architecture on Azure ML and Databricks leveraging MLFlow and Docker.
+- Built an unsupervised topic modeling pipeline using LDA to extract insights from 100K+ medical reports, improving clinical decision.
+- Applied time series analysis and ARIMA modeling to identify patient deterioration trends, enabling early intervention planning.
 
-**Philips | Full Stack Software Developer**
+**Philips | Software Development Engineer**
 *August 2021 – July 2023*
 - Engineered microservices in Java Spring Boot processing 10M+ monthly API requests with sub-100ms latency.
 - Led development of a Java-based REST APIs, enterprise grade backend components using J2EE (JSP, Servlets, JDBC) integrated with OracleDB for device diagnostics, decreasing failure resolution time by 35% through standardized logs and traceability.

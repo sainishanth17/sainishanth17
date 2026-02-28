@@ -49,20 +49,12 @@
 **AI, ML & Data Science:** PyTorch, TensorFlow, Conda, Altair, R, Keras, Pandas, Numpy, Scikit-Learn, Spark, Kafka
 
 # 💼 Work Experience
-**Software Engineer, Academic Research, New York University**
-*Sep 2023 – Present*
-- Conducting research on advanced machine learning algorithms for data analysis and prediction.
-- Developing AI models to support various academic projects, focusing on deep learning and computer vision.
-- Collaborating with professors and fellow students to publish research findings in reputed journals.
-- Designed real-time dashboards using React, TypeScript, and Tailwind CSS, reducing system monitoring effort by 60%.
-- Constructed secure REST APIs using FastAPI, Docker, and PostgreSQL, enabling reliable access to 3K+ clinical records.
-- Deployed microservices with Flask and Kafka for streaming data ingestion, increasing backend throughput by 40%.
-- Devised a modular Django service with Celery and Redis for task queues, powering background data jobs with 99.9% uptime. • Authored client-side validation in React with TypeScript and Zod, improving submission success rates by 40%.
-- Designed ML workflows for multimodal brain analysis using CNNs, Bi-LSTMs, and Transformers (F1: 92.49%).
-- Constructed predictive maintenance models on 5K+ device logs via SageMaker.
-- Deployed scalable MLOps architecture on Azure ML and Databricks leveraging MLFlow and Docker.
-- Built an unsupervised topic modeling pipeline using LDA to extract insights from 100K+ medical reports, improving clinical decision.
-- Applied time series analysis and ARIMA modeling to identify patient deterioration trends, enabling early intervention planning.
+**Amazon | Software Development Engineer**
+*June 2025 – *
+- Working at Amazon Prime Video as a Software Development Engineer in Prime Video Commerce & Recommendations
+- Working with Science & AI to show Customers Personalized Content.
+- Working with Java, Node.js, Typescript & Python to give them seamless Cancellation Experience
+- Working to spread Prime Video across Multiple Countries
 
 **Philips | Software Development Engineer**
 *August 2021 – July 2023*

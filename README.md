@@ -9,9 +9,9 @@
 
 
 
-- 🔭 I’m currently working on **Data Science, Software Engineering and Cloud Computing**
+- 🔭 I’m currently pursuing MBA & working on **Data Science, Software Engineering and Cloud Computing**
 
-- 🌱 I’m currently learning **Azure, AWS, Machine Learning, and Deep Learning**
+- 🌱 I’m currently proficient in **Azure, AWS, Machine Learning, and Deep Learning**
 
 - 💬 Ask me about **AWS, Fullstack Development, ML and AI**
   
@@ -54,7 +54,7 @@
 
 # 💼 Work Experience
 **Amazon | Software Development Engineer**
-*June 2025 – *
+*June 2025 –*
 - Working at Amazon Prime Video as a Software Development Engineer in Prime Video Commerce & Recommendations
 - Working with Science & AI to show Customers Personalized Content.
 - Working with Java, Node.js, Typescript & Python to give them seamless Cancellation Experience

@@ -17,7 +17,7 @@
   
 - 🎮 I love playing Assassins Creed, Madden NFL, God of War, NBA 2K, Elden Ring, F1 Manager, Hogwarts Legacy
 
-- 📫 How to reach me **sm11326@nyu.edu**
+- 📫 How to reach me **sainishm@amazon.com**
 
 
 ## 🌐 Socials:
